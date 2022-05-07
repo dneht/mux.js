@@ -34,3 +34,6 @@ test/dist/
 .eslintcache
 .yo-rc.json
 dist-test/
+
+*.iml
+package-lock.json
